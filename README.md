@@ -92,3 +92,4 @@ Books I plan to read in 2018. Think I should change this list? Send a PR!
  - [ ] **Daemon** (Daniel Suarez) 
  - [ ] **Palace of Dreams** (Ishmael Kadare) 
  - [ ] **Clojure for the Brave and True** (Daniel Higginbotham)
+ - [ ] **Zen in the Art of Motorcycle Maintenance** (Robert M. Pirsig)
