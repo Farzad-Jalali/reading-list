@@ -90,3 +90,5 @@ Books I plan to read in 2018. Think I should change this list? Send a PR!
  - [ ] **Norwegian Wood** (Lars Mytting)
  - [ ] **A Short History of Nearly Everything** (Bill Bryson)
  - [ ] **Daemon** (Daniel Suarez) 
+ - [ ] **Palace of Dreams** (Ishmael Kadare) 
+ - [ ] **Clojure for the Brave and True** (Daniel Higginbotham)
