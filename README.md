@@ -84,3 +84,4 @@ Books I plan to read in 2018. Think I should change this list? Send a PR!
  - [ ] **Multitenancy with Rails** (Ryan Bigg)
  - [ ] **Children of the Mind** (Orson Scott Card)
  - [ ] **Armada** (Ernest Cline)
+ - [ ] **Norwegian Wood** (Lars Mytting)
