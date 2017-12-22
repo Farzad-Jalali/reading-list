@@ -86,3 +86,4 @@ Books I plan to read in 2018. Think I should change this list? Send a PR!
  - [ ] **Armada** (Ernest Cline)
  - [ ] **Prisoners of Geography** (Tim Marshall)
  - [ ] **Cryptonomicon** (Neal Stephenson)
+ - [ ] **The Very Hungry Caterpillar** (Eric Carle)
