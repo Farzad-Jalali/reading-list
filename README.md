@@ -93,3 +93,5 @@ Books I plan to read in 2018. Think I should change this list? Send a PR!
  - [ ] **Palace of Dreams** (Ishmael Kadare) 
  - [ ] **Clojure for the Brave and True** (Daniel Higginbotham)
  - [ ] **Zen in the Art of Motorcycle Maintenance** (Robert M. Pirsig)
+- [] **The One Thing** (Gary Keller)
+- [] **Deep Work** (Cal Newport)
