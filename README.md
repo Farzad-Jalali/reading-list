@@ -88,5 +88,5 @@ Books I plan to read in 2018. Think I should change this list? Send a PR!
  - [ ] **Cryptonomicon** (Neal Stephenson)
  - [ ] **The Very Hungry Caterpillar** (Eric Carle)
  - [ ] **Norwegian Wood** (Lars Mytting)
- - [ ] **A Short History of Nearly Everything ** (Bill Bryson)
+ - [ ] **A Short History of Nearly Everything** (Bill Bryson)
  - [ ] **Daemon** (Daniel Suarez) 
