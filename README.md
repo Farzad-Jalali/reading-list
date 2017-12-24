@@ -7,7 +7,7 @@ Books I plan to read in 2018. Think I should change this list? Send a PR!
  - [ ] **Astrophysics for People in a Hurry** (Neil deGrasse Tyson)
  - [ ] **Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration** (Ed Catmull)
  - [ ] **Dust** (Hugh Howey)
- - [ ] **Learn You a Haskell for Great Good!: A Beginner's Guide** (Miran Lipovaca)
+ - [ ] **Haskell Programming from First Principles** (Christopher Allen & Julie Moronuki)
  - [ ] **Sapiens: A Brief History of Humankind** (Yuval Noah Harari)
  - [ ] **Hamilton: The Revolution** (Lin-Manuel Miranda)
  - [ ] **The Martian** (Andy Weir)
