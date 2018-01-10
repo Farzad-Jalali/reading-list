@@ -8,3 +8,4 @@ This repository exists because I decided I want to read more books. The problem 
  - When I've read a book, I'll close the issue [here's the list of books I've read (since 2018 when I opened this repo)](https://github.com/keithamus/reading-list/issues?q=is%3Aissue+is%3Aclosed)
  - I might even comment on an issue with notes about a book
  - If you have questions about a book I've read, or am reading, or want to tell me something cool about a book I'm about to read, feel free to comment on it! If you spoil a book for me, I'll be sad and probably won't talk to you again. Not much fun there.
+ - If you like to see boards of things, [check out the Reading board which shows books as little cards moving along the columns to be read](https://github.com/keithamus/reading-list/projects/1)
