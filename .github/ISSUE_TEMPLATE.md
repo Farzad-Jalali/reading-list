@@ -6,6 +6,4 @@ Please fill the subject line in with title of the book, and in brackets the auth
 
 Before you submit, maybe search open/closed my list to see if I've already got this in the list!
 
-Don't worry about adding a description, or changing this message!
-
--->
+Maybe you could write below should tell me why I should read a book! It might make me read it faster 💨🏎️-->
